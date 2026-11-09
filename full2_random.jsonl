@@ -1,0 +1,1 @@
+{"name":"SparseTableCartesianBlocksFamily","params":{},"distribution":"fully_random","n":10000000,"build_time":{"mean":0.329944,"std_dev":0.0,"median":0.329944},"query_time":{"mean":2.629415400000002e-8,"std_dev":1.229332235007293e-9,"median":2.6208e-8},"query_latency":{"mean":6.667171199999985e-8,"std_dev":3.177139060485969e-9,"median":6.6041e-8},"memory_bytes":68502316}
